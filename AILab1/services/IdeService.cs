@@ -22,6 +22,10 @@
         public async Task<string[]> GetIdeer(int[] aldre)
         {
             // TODO: Slet nedenstående kode og implementer løsningen på Del 2 her
+
+            // Brug en prompt i stil med denne:
+            // "Vi er 3 personer med aldrene 7, 9, 35 år. Giv os tre ideer til, hvad vi kan lave på søndag."
+
             string[] result = Array.Empty<string>();
             return result;
         }
